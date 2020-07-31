@@ -1,6 +1,8 @@
 # Florida Web App
 
-A placeholder for the florida web app through Esri
+A web app showcasing Florida's sinkholes and state parks
+
+### Currently a placeholder
 
 ## <a href="https://bstefansen.maps.arcgis.com/apps/webappviewer/index.html?id=a9b83f7e0f58477dad836126c6c43ae5">Demo</a>
 
