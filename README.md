@@ -4,7 +4,7 @@ A web app showcasing Florida's sinkholes and state parks 🐊
 ![](https://bstefansen.github.io/Portfolio/images/floridaWebApp.JPG)
 
 ## Why
-I built this web app to better understand Esri's Webapp builder and out of curiousity to see where sinkholes and state parks overlap
+I built this web app to better understand Esri's ArcGIS Web AppBuilder and out of curiousity to see where sinkholes and state parks overlap
 
 ## Features
 - Users can select different layers to view using the layer list
